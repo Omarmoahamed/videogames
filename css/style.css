@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.sitelogo img{
+
+    width: 50px;
+    height: 50px;
+}
+
+.sitelogo h2{
+    font-size: 20px;
+   
+    width: 150px;
+    height: 50px;
+    color: white;
+}
+
+.card{
+
+    color: white;
+    background-color: rgb(30, 29, 29);
+}
+.main{
+
+    background-color: rgb(1, 59, 78);
+
+    overflow: auto;
+
+    z-index: 9999999;
+
+}
+
+.categ-list p{
+
+    text-decoration: none;
+    list-style: none;
+    color:white;
+
+    padding-top: 15px;
+}
+
+.main ul{
+
+    list-style-type: none;
+}
+
+.page{
+
+    background-image:url(516663\ \(1\).jpg);
+    background-position: center center;
+    background-size: cover;
+    overflow: auto;
+}
+
+.free{
+
+    background-color: blue;
+}
+
+
+.layer {
+
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    overflow: auto;
+}
+
+.allcards{
+
+    margin-top: 200px;
+    overflow: auto;
+}
+
+
+.cardstyle{
+
+    color: white;
+    position: relative;
+    bottom: 1px;
+}
+
+.card img{
+
+    width: 310px;
+    height: 220px;
+}
+
+/*details*/
+
+.detailspage{
+
+    background-image:url(516663\ \(1\).jpg);
+    background-position: center center;
+    background-size: cover;
+    overflow: auto;
+
+}
+
+
+.head h2 {
+
+    color: white;
+}
+
+.secoundhalf  p{
+
+    color: white;
+}
+.secoundhalf  h3{
+
+    color: white;
+}
+
+.secoundhalf button{
+
+    background-color: transparent;
+    border-color: gold;
+    color: white;
+}
